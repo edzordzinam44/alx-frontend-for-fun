@@ -1,5 +1,5 @@
-# Starting to use flexbox
-## Resources:
+# Starting to use flexbox and Forms
+## Resources for Flexbox:
 	A Complete Guide to Flexbox | CSS-Tricks
 	Flexbox Froggy - A game for learning CSS flexbox
 	Flexbox Defense
@@ -10,4 +10,12 @@
 	Flexplorer
 	CSS Flexible Box Layout Module Level 1
 	FLEX: A simple visual cheatsheet for flexbox
-# Happy Coding
+## Resources for Forms:
+    An Extensive Guide To Web Form Usability — Smashing Magazine
+    Forms - UX Movement
+    Placeholders in Form Fields are Harmful (Video)
+    The Anatomy of Accessible Forms: Best Practices | Deque
+    Pure CSS Custom Error Messaging for Default Form Elements – Sarah Holley Design
+# Happy Coding..
+<F12>edzordzinam.alipui@gmail.com<F12>
+On X / twitter <F12>@hope_fabulouss<F12>
