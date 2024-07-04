@@ -690,7 +690,6 @@ label {
   padding: 0 0 .5rem;
 }
 
-/* Target all input type text and email */
 input[type="text"]
 input[type="email"]
 textarea {
