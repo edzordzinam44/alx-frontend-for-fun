@@ -21,5 +21,5 @@
     The importance of Web Accessibility
     Tools to use for Web Accessibility
 ## Fun Facts:
-    I used 'vi editor' to completeí¸ 
-# Happy coding í²»
+    I used 'vi editor' to completeğŸ˜
+# Happy coding ğŸ’»
