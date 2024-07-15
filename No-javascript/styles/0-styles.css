@@ -1,0 +1,30 @@
+.container {
+    display: flex;
+    justify-content: space-around;
+    width: 62%;
+}
+
+.box {
+    border: 2px solid #000;
+    padding: 29px;
+    width: 200px;
+    /* height: 10px; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f5f5f5;
+    border-radius: 15px;
+}
+
+.box img {
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+img {
+    height:300px;
+}
+
+/* br { 
+    width: 1.px;
+}  */
