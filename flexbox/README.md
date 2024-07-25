@@ -1,6 +1,6 @@
-# Flexbox
-## Resources
-##  Read:
+# 1. Flexbox
+## 1.1. Resources
+##  1.2. Read:
     A Complete Guide to Flexbox | CSS-Tricks
     Flexbox Froggy - A game for learning CSS flexbox
     Flexbox Defense
@@ -11,7 +11,7 @@
     Flexplorer
     CSS Flexible Box Layout Module Level 1
     FLEX: A simple visual cheatsheet for flexbox
-## More INsights:
+## 1.3. More INsights:
     What is Flexbox?
     How to convert float positioning to a flex display
     How to horizontally and vertically align elements using Flexbox
@@ -19,4 +19,4 @@
     Properties that work on flex elements vs flex container
     Shorthands for flex
     How to create a new page with flex in mind
-# Happpy Coding
+# 2. Happy Smart Coding 💻
