@@ -1,0 +1,19 @@
+/*Added body, p and h2 elements using sass */
+$text-color: #3D3D3D;
+$backgroound-color: #6D6D6D;
+
+body {
+    color: $text-color;
+}
+
+p {
+    color: $text-color;
+}
+
+body {
+    background-color: $backgroound-color;
+}
+
+h2 {
+    background-color: $backgroound-color;
+}
